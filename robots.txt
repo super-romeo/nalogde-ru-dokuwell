@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nalogde-ru.dokufolio.com/sitemap.xml
